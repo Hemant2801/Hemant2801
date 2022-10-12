@@ -1,4 +1,3 @@
-[![@hemant2801's Holopin board](https://holopin.io/api/user/board?user=hemant2801)](https://holopin.io/@hemant2801)
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A Mechatronics Engineer.</h3>
 
